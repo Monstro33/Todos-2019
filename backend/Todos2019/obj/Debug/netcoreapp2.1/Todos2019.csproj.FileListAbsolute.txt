@@ -1,0 +1,14 @@
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\bin\Debug\netcoreapp2.1\Todos2019.deps.json
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\bin\Debug\netcoreapp2.1\Todos2019.runtimeconfig.json
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\bin\Debug\netcoreapp2.1\Todos2019.runtimeconfig.dev.json
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\bin\Debug\netcoreapp2.1\Todos2019.dll
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\bin\Debug\netcoreapp2.1\Todos2019.pdb
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.RazorAssemblyInfo.cache
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.RazorAssemblyInfo.cs
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.AssemblyInfoInputs.cache
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.AssemblyInfo.cs
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.RazorTargetAssemblyInfo.cache
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.dll
+C:\Users\WeCanCodeIT\source\repos\todos-2019\backend\Todos2019\obj\Debug\netcoreapp2.1\Todos2019.pdb
